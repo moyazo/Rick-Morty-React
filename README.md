@@ -1,32 +1,31 @@
-Rick-Morty-React
-Hi there 👋! This app is dedicated to a simple CRUD implementation, in order to help me develop my skills as a developer. You can also see how I work and provide advice on how to program.
+# Rick-Morty-React
 
-Getting started
-Before you start working on this repository, you need to clone it to your local machine:
+Hi there 👋
+This App will be dedicated to a normal crud, in order to develop my skills.
+Also, you see how i work and you can advise how to program.
 
-bash
-Copy code
-git clone https://github.com/usuario/repo.git
-cd repo
-Dependencies
-After cloning the repository, you need to install the dependencies:
+### FIRST OF ALL
+Before you can work on this repo, you must clone the repo at your local pc.
 
-bash
-Copy code
-npm install
-or
+          $ git clone https://github.com/usuario/repo.git
+          $ cd repo
+          
+## DEPENDENCIES
+Afte you have cloned it, we have to install or dependencies, without them or app will crush.
 
-bash
-Copy code
-yarn
-Without these dependencies, the app will not function correctly.
+          - With npm:
+          
+              $ npm i
+              
+          - With yarn
+          
+              $ yarn
+              
+## Finally
+You can now run up the app. But you should check that de BackEnd is active.
 
-Running the app
-To run the app, you need to make sure that the backend is running:
+                $ Check BackEnd in url....
+                $ yarn start
 
-Check that the backend is running at http://localhost:3000.
-Start the frontend:
-bash
-Copy code
-yarn start
-And that's it! Happy hacking 😎💻.
+
+ HAPPY HACKING 😎💻
